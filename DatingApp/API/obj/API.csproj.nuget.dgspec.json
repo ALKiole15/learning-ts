@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/alkiole15/Documents/learning ts/learning-ts/DatingApp/API/API.csproj": {}
+    "C:\\Users\\Lostcause\\Documents\\learning-ts\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "/home/alkiole15/Documents/learning ts/learning-ts/DatingApp/API/API.csproj": {
+    "C:\\Users\\Lostcause\\Documents\\learning-ts\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alkiole15/Documents/learning ts/learning-ts/DatingApp/API/API.csproj",
+        "projectUniqueName": "C:\\Users\\Lostcause\\Documents\\learning-ts\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "/home/alkiole15/Documents/learning ts/learning-ts/DatingApp/API/API.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/alkiole15/Documents/learning ts/learning-ts/DatingApp/API/obj/",
+        "projectPath": "C:\\Users\\Lostcause\\Documents\\learning-ts\\DatingApp\\api\\API.csproj",
+        "packagesPath": "C:\\Users\\Lostcause\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lostcause\\Documents\\learning-ts\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Lostcause\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -61,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/154/sdk/5.0.405/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
