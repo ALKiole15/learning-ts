@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\compti\\Documents\\anderson\\learning-ts\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\Lostcause\\Documents\\learning-ts\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\compti\\Documents\\anderson\\learning-ts\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\Lostcause\\Documents\\learning-ts\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\compti\\Documents\\anderson\\learning-ts\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Lostcause\\Documents\\learning-ts\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\compti\\Documents\\anderson\\learning-ts\\DatingApp\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\compti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\compti\\Documents\\anderson\\learning-ts\\DatingApp\\API\\obj\\",
+        "projectPath": "C:\\Users\\Lostcause\\Documents\\learning-ts\\DatingApp\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Lostcause\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lostcause\\Documents\\learning-ts\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\compti\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Lostcause\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -91,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
